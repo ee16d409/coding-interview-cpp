@@ -1,3 +1,5 @@
+[Google drive link to other resources](https://drive.google.com/drive/folders/1uCZTONDp44Nlk1VRuymbCbPcAMBp-V5d)
+
 # Introduction
 
 This repository contains a collection of resources helpful for coding interviews which involve competitive programming. The content is currently supported in C++ only. Since vast amount of material is already present online, links to the same are given below. However, there is no concise and easy to understand documentation of STL available currently. You will find detailed STL syntax with examples in this repo.
